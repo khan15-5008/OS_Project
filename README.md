@@ -41,7 +41,7 @@ Terminal Output:
 )
 ![image alt](https://github.com/khan15-5008/OS_Project/blob/6111b69424f9bbee893de380b473d0e463631e14/Screenshot%202026-04-27%20193656.png
 )
-![image alt](
+![image alt](https://github.com/khan15-5008/OS_Project/blob/bcee9941416ebe25606d612d480a2e7fe0283290/Screenshot%202026-04-27%20193730.png
 )
 ![image alt](
 )
