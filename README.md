@@ -37,7 +37,7 @@ Output: An encrypted file (Secret file.txt.enc) and a corresponding IV file (Sec
 Terminal Output:
 ![image alt](https://github.com/khan15-5008/OS_Project/blob/f9484bd91f464ce992a8ded297cc2dba3ad4e3b7/Screenshot%202026-04-27%20193555.png
 )
-![image alt](
+![image alt](https://github.com/khan15-5008/OS_Project/blob/8a3f848870304c695cc1b4313f661d6b665958ca/Screenshot%202026-04-27%20193628.png
 )
 ![image alt](
 )
