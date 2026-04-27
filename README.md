@@ -35,6 +35,15 @@ Output: An encrypted file (Secret file.txt.enc) and a corresponding IV file (Sec
 
 
 Terminal Output:
-<img width="814" height="171" alt="image" src="https://github.com/user-attachments/assets/f1fbbeb7-d6b8-4d49-ba23-8c23439d7707" />
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
+![image alt](
+)
 
 
